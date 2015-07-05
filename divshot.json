@@ -1,0 +1,7 @@
+{
+  "name": "anke",
+  "root": "target",
+  "clean_urls": true,
+  "error_page": "error.html",
+    "exclude": ["js/out/"]
+}

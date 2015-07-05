@@ -1,0 +1,14 @@
+body {
+    background: purple;
+    color: white;
+    font-family: Baskerville, Georgia;
+    padding-top: 1em;
+}
+
+.lowercase {
+    text-transform: lowercase;
+}
+
+.media-left img {
+    width: 100px;
+}

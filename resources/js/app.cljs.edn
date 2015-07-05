@@ -1,0 +1,2 @@
+{:require  [anke.app]
+ :init-fns [anke.app/init]}
